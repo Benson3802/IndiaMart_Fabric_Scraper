@@ -45,5 +45,5 @@ The following libraries are required to run the code. Use the following commands
 
 #### scrape data from the URLs
 >
-> scrapy crawl spider1 -O <filename><.json>/<.csv>
+> scrapy crawl spider1 -O \<filename><.json>/<.csv>
 
