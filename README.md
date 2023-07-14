@@ -28,7 +28,7 @@ The following libraries are required to run the code. Use the following commands
 > 
 > pip install Scrapy
 
-## [Scrapy DocumentationOfficial Website](https://www.example.com)
+## [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
 
 > [Official Website Link]((https://www.example.com](https://docs.scrapy.org/en/latest/))
 
