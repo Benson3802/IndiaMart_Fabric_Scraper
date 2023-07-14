@@ -35,12 +35,15 @@ The following libraries are required to run the code. Use the following commands
 >
 > Open the terminal in the main directory
 
-#### To download the required URLs for scraping
+
+#### Run the following commands to:
+
+#### download the required URLs for scraping
 >
 > Scrapy crawl links
 
 
-#### To scrape data from the URLs
+#### scrape data from the URLs
 >
 > scrapy crawl spider1 -O <filename><.json>/<.csv>
 
